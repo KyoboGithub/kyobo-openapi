@@ -1,7 +1,0 @@
-
-본인확인모듈 JSP : https://www.niceid.co.kr/common/file_down.jsp?path=/documents/CheckPlusSafe_JSP.zip&file=CheckPlusSafe_JSP.zip
-본인확인모듈 PHP : https://www.niceid.co.kr/common/file_down.jsp?path=/documents/CheckPlusSafe_PHP.zip&file=CheckPlusSafe_PHP.zip
-본인확인모듈 ASP : https://www.niceid.co.kr/common/file_down.jsp?path=/documents/CheckPlusSafe_ASP.zip&file=CheckPlusSafe_ASP.zip
-본인확인모듈 .NET : https://www.niceid.co.kr/common/file_down.jsp?path=/documents/CheckPlusSafe_.NET.zip&file=CheckPlusSafe_.NET.zip
-
-Webview 개발가이드 : https://www.niceid.co.kr/common/file_down.jsp?path=/documents/WebViewGuide.zip&file=WebViewGuide.zip
